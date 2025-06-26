@@ -1,3 +1,5 @@
+#include "../header/maximum_of_array.hpp"
+
 int max(int array[], int size)
 {
     int res  = array[0];
